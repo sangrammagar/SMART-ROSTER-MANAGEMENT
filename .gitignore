@@ -1,0 +1,4 @@
+__pycache__/
+.venv/
+roster.db
+.streamlit/secrets.toml
